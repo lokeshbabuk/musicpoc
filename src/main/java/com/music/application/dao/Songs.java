@@ -6,10 +6,7 @@ package com.music.application.dao;
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 
-/**
- * @author M1028349
- *
- */
+
 public class Songs {
 	
 	private Integer  songid;
