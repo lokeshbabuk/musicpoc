@@ -18,10 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 
-/**
- * @author M1028349
- *
- */
+
 @RestController
 @RequestMapping(path = "/music")
 public class MusicController {
