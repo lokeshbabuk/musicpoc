@@ -1,0 +1,8 @@
+com\music\application\dao\Music.class
+com\music\application\dao\Artist.class
+com\music\application\dao\MusicController.class
+com\music\application\dao\Songs.class
+com\music\application\dao\Album.class
+com\music\application\dao\Song.class
+com\music\application\MusicpocApplication.class
+com\music\application\dao\MusicAlbum.class
