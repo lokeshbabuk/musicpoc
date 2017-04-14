@@ -5,10 +5,7 @@ package com.music.application.dao;
 
 import java.util.List;
 
-/**
- * @author M1028349
- *
- */
+
 
 public class Album {
 	
